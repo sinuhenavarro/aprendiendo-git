@@ -1,2 +1,3 @@
 Primera línea
-Nueva funcionalidad
+Función1
+Función1-2
